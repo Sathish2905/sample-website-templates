@@ -1,6 +1,6 @@
 ## HTML5 Website Templates
  
-*Click <img src="https://github.com/Sathish2905/javascript-interview-questions/blob/master/assets/star.png" width="18" height="18" align="absmiddle" title="star" /> if you like the project. pull request are highly appreciated.*
+*Click <img src="https://github.com/Sathish2905/spring_interview_questions/blob/master/assets/star.png" width="18" height="18" align="absmiddle" title="star" /> if you like the project. pull request are highly appreciated.*
 
 ### Table of contents
 
